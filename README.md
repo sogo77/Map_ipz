@@ -1,1 +1,1 @@
-http://localhost:8888/notebooks/Untitled.ipynb
+http://localhost:8888/lab
